@@ -1,5 +1,5 @@
 # Habitzz – Micro Habit Reminder App
-![image alt](https://github.com/RupakDas12/Habitzz/blob/e1311a91bd99d8cc61c4aa58e73e323ee1f51317/Screenshot%202026-02-27%20112119.png)
+![image alt](https://github.com/RupakDas12/Habitzz/blob/6e1361435e10a600c6e839ad8e942c3ddb74a8fd/Screenshot%202026-02-27%20114936.png)
 
 ## ✨ Features
 - Daily micro habit tracking
