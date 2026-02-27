@@ -16,15 +16,10 @@
 - Notifications API
 
 ## 🏗 Architecture
-Explain in 4–6 lines:
 - Context for global state
 - Supabase client in lib
 - Notifications service
 - Tab navigation structure
-
-
-## 🎥 Demo Video
-(Add Loom/Youtube link)
 
 ## 🧠 What I Learned
 Short reflection: performance, state management, async handling, etc.
